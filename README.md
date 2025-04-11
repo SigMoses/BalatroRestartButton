@@ -9,3 +9,6 @@ This mod does exactly the same thing as holding R normally would.
 ## Brainstorm Reroll Button
 If you use Brainstorm's auto reroll and you want an easier way to trigger it after losing a run, this mod is for you.
 Similar to Restart Run Button, a button is added to both the escape menu and game over screen, which triggers the same function as the Ctrl+A key combination.
+
+## Screenshots
+![20250411214048_1](https://github.com/user-attachments/assets/e313eac2-9f58-4a70-9bad-0e9150cb2c9c)
