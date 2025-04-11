@@ -15,7 +15,7 @@ Similar to Restart Run Button, a button is added to both the escape menu and gam
 
 **Important:** Use the Mac version of Brainstorm. It works on Windows and Linux too, don't worry.
 
-Brainstorm 2.0.0 (Windows only) and the Mac version (which is in the master repo) have completely different code and the mod is only made to work with the Mac version.
+Brainstorm 2.0.0 (Windows only) and the Mac version (which is in the master repo) have completely different code (and even different functionality) and the mod is only made to work with the Mac version.
 
 Simply download the Brainstorm repo using Code->Download ZIP instead of using the files from releases.
 
