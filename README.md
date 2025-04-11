@@ -1,5 +1,5 @@
 # BalatroMods
-Some small Balatro QoL mods I wrote.
+Some small Balatro QoL mods I wrote. Tested on Balatro 1.0.1o and Steamodded 1.0.0 beta (0323b)
 
 ## Restart Run Button
 Adds a button to restart the current run to the escape menu and game over screen.
