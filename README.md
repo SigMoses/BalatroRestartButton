@@ -1,5 +1,5 @@
 # BalatroMods
-Some small Balatro QoL mods I wrote. Tested on Balatro 1.0.1o and Steamodded 1.0.0 beta (0323b)
+Some small Balatro QoL mods Jdbye wrote and I updated for the latest version of Brainstorm.
 
 ## Restart Run Button
 Adds a button to restart the current run to the escape menu and game over screen.
@@ -13,11 +13,9 @@ This is also useful on the (unofficial) mobile version, where obviously you norm
 
 Similar to Restart Run Button, a button is added to both the escape menu and game over screen, which triggers the same function as the Ctrl+A key combination.
 
-**Important:** Use the Mac version of Brainstorm. It works on Windows and Linux too, don't worry.
+Works with Brainstorm-Rerolled-1.0.2-alpha (Windows only).
 
-Brainstorm 2.0.0 (Windows only) and the Mac version (which is in the master repo) have completely different code (and even different functionality) and the mod is only made to work with the Mac version.
-
-Simply download the Brainstorm repo using Code->Download ZIP instead of using the files from releases.
+Simply download the Brainstorm file from the repo (DO NOT download Immolate as well!)
 
 ## Screenshots
 ![20250411214048_1](https://github.com/user-attachments/assets/e313eac2-9f58-4a70-9bad-0e9150cb2c9c)
